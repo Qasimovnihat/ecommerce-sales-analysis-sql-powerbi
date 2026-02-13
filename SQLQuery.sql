@@ -1,8 +1,7 @@
-﻿
--- Həmişə orijinal cədvələ toxunmadan yeni bir cədvəl üzərində işləmək tövsiyə olunur.
+-- Orjinal cedvelin kopyasini aliriq.﻿
 SELECT *
 INTO SalesData_Cleaned
-FROM Raw_Sales_Data; -- 'Raw_Sales_Data' sənin orijinal cədvəl adındır
+FROM Raw_Sales_Data;  
 
 
 -- 'payment_method' sütununda boşluqların silinməsi və formatın eyniləşdirilməsi
