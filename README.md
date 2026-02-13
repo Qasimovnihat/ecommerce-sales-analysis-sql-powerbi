@@ -40,3 +40,5 @@ Version Control: Git & GitHub Desktop
 LinkedIn: https://www.linkedin.com/in/nihat-qasimov-ab4408393?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 Email: gasimov.niihat@gmail.com
+
+Data Linki. https://drive.google.com/file/d/1mIXCIjVy-4bKIr2EF9YCSvuplfpyNnMY/view?usp=sharing
